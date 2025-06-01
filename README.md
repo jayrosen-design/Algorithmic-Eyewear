@@ -1,4 +1,4 @@
-# Algorithmic Eyewear by Jay Rosen Design
+# Algorithmic Eyewear
 
 Welcome to the Algorithmic Eyewear repository. This project showcases a unique collection of eyewear designs, existing at the intersection of art, AI, and blockchain technology, by Jay Rosen Design.
 
