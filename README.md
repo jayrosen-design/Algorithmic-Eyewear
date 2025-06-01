@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15571483.svg)](https://doi.org/10.5281/zenodo.15571483)
+
 # Algorithmic Eyewear
 
 Welcome to the Algorithmic Eyewear repository. This project showcases a unique collection of eyewear designs, existing at the intersection of art, AI, and blockchain technology, by Jay Rosen Design.
